@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ang-crud';
+
+  email: string;
+  password: string;
 }
